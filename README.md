@@ -1,5 +1,6 @@
 # PowerApps-components
 This repository is to share useful, sample PowerApps canvas components.
+
 Components can be imported into PowerApps canvas designer after enabling the feature.  
 
 # Useful links
@@ -10,4 +11,5 @@ Components can be imported into PowerApps canvas designer after enabling the fea
 Please leave any comments in this repo, or post in [forums](https://powerusers.microsoft.com/t5/tag/Components/tg-p/category-id/PowerApps1) with #component.
 
 Maintainer: Yifei Wang
+
 Twitter: @yifei03
