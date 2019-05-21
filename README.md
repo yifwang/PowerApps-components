@@ -8,7 +8,9 @@ Components can be imported into PowerApps canvas designer after enabling the fea
   - [Introducing canvas components](https://powerapps.microsoft.com/en-us/blog/components-available-in-preview/)
 
 # Feedback
-Please leave any comments in this repo, or post in [forums](https://powerusers.microsoft.com/t5/tag/Components/tg-p/category-id/PowerApps1) with #component.
+Please leave any comments in this repo. Your feedback is important to us.
+You are welcome to create and submit your component to this repo to share with everyone!
+General component question or discussion can be posted in [forums](https://powerusers.microsoft.com/t5/tag/Components/tg-p/category-id/PowerApps1) with #component.
 
 Maintainer: Yifei Wang
 
