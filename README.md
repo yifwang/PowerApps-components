@@ -6,6 +6,7 @@ Components can be imported into PowerApps canvas designer after enabling the fea
 # Component specificition
   - [Component - Circle progress indicator](https://powerapps.microsoft.com/en-us/blog/import-components-from-cloud-apps/)
   - [Component - Partial circle indicator](https://powerapps.microsoft.com/en-us/blog/import-components-from-cloud-apps/)
+  - OnReset dialog app.msapp - beta 
 
 # Useful links
   - [Component tutorials from Mr. Dang](https://www.youtube.com/watch?v=CmPEyh3CP6A&list=PLV8OHCUzIb7XkDSXedJrVzj6igwpHFH85)
